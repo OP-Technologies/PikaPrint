@@ -22,7 +22,7 @@ To download PikaPrint, head to the releases section of this GitHub repository.
 If you are unsure of what a deck ID is, or where to find the correct one, you're in the right place.
 1. Go to the [TCG Guru](https://pokemontcg.guru/sets) website.
 2. Click on the set you are going to be working with.
-3. Copy the last part of the URL. For example, the deck ID for https://pokemontcg.guru/set/astral-radiance/*swsh10* would be *swsh10*.
+3. Copy the last part of the URL. For example, the deck ID for https://pokemontcg.guru/set/astral-radiance/swsh10 would be *swsh10*.
 
 ## Known Limitations & Bugs
 - Cards in Trainer Galleries will have separate deck IDs, so you will have to process them separately. When processing these, **DO NOT** include the letters at the beginning of the card ID.
