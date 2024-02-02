@@ -1,0 +1,21 @@
+name: PikaPrint
+id: ari:cloud:compass:b92dfdb2-a692-4b7d-a219-2d2b51fc9db4:component/85e62351-90cf-4b7a-95a4-9c31643cf343/a46208e6-35bd-49e6-bd0d-a77ee1e64d5f
+description: PikaPrint is a useful utility for Pokemon TCG collectors
+configVersion: 1
+typeId: APPLICATION
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/OP-Technologies/PikaPrint
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:python
+  - pokemon
+  - pokemon-api
+  - pokemon-tcg
+  - source:github
+customFields: null
